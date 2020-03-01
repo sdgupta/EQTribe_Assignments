@@ -1,6 +1,7 @@
 # EQTribe_Assignments
 
 This repo contains 2 selenium projects : EQTribe_Assignment1 and EQTribe_Assignment2.
+
 **The jar files required to run each project is present in the libraries folder. 
 Please make sure to add these jar files to the project build path.**
 
