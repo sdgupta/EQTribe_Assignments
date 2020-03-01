@@ -16,6 +16,7 @@ Similarly, for EQTribe_Assignment2, the testng.xml is present at :
 Details about both the projects are given below :
 
 **EQTribe_Assignment1:**
+
 1. Go to https://www.amazon.in.
 2. Once page is loaded, search for iPhone XR (64GB) - Yellow.
 3. Select the matching iPhone once list appears.
@@ -25,7 +26,7 @@ Details about both the projects are given below :
 7. Compare the price on both the website and determine which website.
 has lesser value for the iPhone and print the final result on the console.
 
-**EQTribe_Assignment1:**
+**EQTribe_Assignment2:**
 
 1. Go to https://www.tripadvisor.in/
 2. Once page is loaded, search for “Club Mahindra”.
